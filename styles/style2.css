@@ -1,0 +1,15 @@
+body {
+    min-height: 100vh;
+    color: #333;
+}
+
+main {
+    min-height: 100vh;
+    display: flex;
+}
+
+.container {
+    margin: auto;
+    max-width: 650px;
+}
+
